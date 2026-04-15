@@ -21,10 +21,10 @@ This project connects Arduino Uno WiFi Rev2 to WiFi and prints:
 Displays connection status and network info.
 
 ## Arduino Uno Rev2 WiFi
-#1. Servo FS90 - connecting diagram
+### 1. Servo FS90 - connecting diagram
 <img width="1260" height="519" alt="image" src="https://github.com/user-attachments/assets/f642d4a1-0135-4f94-848e-e24594c5f153" />
 
 ## Raspberyy Pi 5B
-#1. Servo FS90 - connecting diagram
+### 1. Servo FS90 - connecting diagram
 <img width="1394" height="747" alt="image" src="https://github.com/user-attachments/assets/b4a4380f-20af-4e29-88c6-1432073b8e92" />
 
