@@ -29,4 +29,5 @@ Displays connection status and network info.
 <img width="1394" height="747" alt="image" src="https://github.com/user-attachments/assets/b4a4380f-20af-4e29-88c6-1432073b8e92" />
 
 ### 2. Sensor HC-SR04 - connecting diagram
-<img width="1394" height="747" alt="image" src="https://github.com/user-attachments/assets/b4a4380f-20af-4e29-88c6-1432073b8e92" />
+<img width="1278" height="678" alt="image" src="https://github.com/user-attachments/assets/af6c5814-1b5a-4664-ad01-c4936df0d923" />
+
