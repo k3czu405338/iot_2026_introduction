@@ -30,7 +30,8 @@ Displays connection status and network info.
 <img width="1260" height="519" alt="image" src="https://github.com/user-attachments/assets/9a3b5863-b6f4-4700-b962-7429881c2e2b" />'
 
 ### 3. Adafruit BMP388 - connecting diagram
-<img width="1091" height="457" alt="image" src="https://github.com/user-attachments/assets/ebb51fa9-9c01-4ca4-9a96-bb21c6a7a43a" />
+<img width="1091" height="457" alt="image" src="https://github.com/user-attachments/assets/efb6b17f-969c-4407-ac19-28180c774632" />
+
 
 
 
