@@ -20,7 +20,9 @@ This project connects Arduino Uno WiFi Rev2 to WiFi and prints:
 ## Output
 Displays connection status and network info.
 
+
 ## Arduino Uno Rev2 WiFi
+
 ### 1. Sensor HC-SR04 - connecting diagram
 <img width="914" height="410" alt="image" src="https://github.com/user-attachments/assets/93a188c6-bedb-439e-87f7-3952c78f8dbf" />
 
@@ -31,13 +33,23 @@ Displays connection status and network info.
 <img width="1091" height="457" alt="image" src="https://github.com/user-attachments/assets/ebb51fa9-9c01-4ca4-9a96-bb21c6a7a43a" />
 
 
+
 ## Raspberyy Pi 5B
+
 ### 1. Sensor HC-SR04 - connecting diagram
 <img width="1279" height="685" alt="image" src="https://github.com/user-attachments/assets/686c796b-dc66-4a4e-9e69-b1d3b18f2b44" />
 
 ### 2. Servo FS90 - connecting diagram
 <img width="1394" height="747" alt="image" src="https://github.com/user-attachments/assets/b4a4380f-20af-4e29-88c6-1432073b8e92" />
 
+## Raspberyy Pico WH
 
+### 1. Sensor HC-SR04 - connecting diagram
+
+
+### 2. Servo FS90 - connecting diagram
+
+
+### 3. Adafruit BMP388 - connecting diagram
 
 
