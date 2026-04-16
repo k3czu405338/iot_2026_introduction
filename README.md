@@ -25,7 +25,8 @@ Displays connection status and network info.
 <img width="914" height="410" alt="image" src="https://github.com/user-attachments/assets/93a188c6-bedb-439e-87f7-3952c78f8dbf" />
 
 ### 2. Servo FS90 - connecting diagram
-<img width="1260" height="519" alt="image" src="https://github.com/user-attachments/assets/9a3b5863-b6f4-4700-b962-7429881c2e2b" />
+<img width="1260" height="519" alt="image" src="https://github.com/user-attachments/assets/9a3b5863-b6f4-4700-b962-7429881c2e2b" />'
+
 ### 3. Adafruit BMP388 - connecting diagram
 <img width="1091" height="457" alt="image" src="https://github.com/user-attachments/assets/ebb51fa9-9c01-4ca4-9a96-bb21c6a7a43a" />
 
