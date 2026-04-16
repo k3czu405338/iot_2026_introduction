@@ -1,8 +1,8 @@
 #include <SPI.h>
 #include <WiFiNINA.h>
 
-char ssid[] = "Rpi_zone";     // SSID - it can be changed 
-char pass[] = "PA$$w0rd100%"; // Password - change according to SSID
+char ssid[] = "Rpi_zone";     // 
+char pass[] = "P@$$w0rd100%"; // 
 
 int status = WL_IDLE_STATUS;
 
@@ -12,13 +12,13 @@ void setup() {
 
   Serial.println("Connecting to WiFi...");
 
-  // Verify access to WiFi 
+  // Check if WiFi module exists
   if (WiFi.status() == WL_NO_MODULE) {
     Serial.println("WiFi module not found!");
     while (true);
   }
 
-  // Connect to WiFi with indicated SSID
+  // Connect to WiFi
   while (status != WL_CONNECTED) {
     Serial.print("Attempting connection to: ");
     Serial.println(ssid);
