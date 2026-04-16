@@ -24,7 +24,7 @@ Displays connection status and network info.
 ## Arduino Uno Rev2 WiFi
 
 ### 1. Sensor HC-SR04 - connecting diagram
-<img width="914" height="410" alt="image" src="https://github.com/user-attachments/assets/93a188c6-bedb-439e-87f7-3952c78f8dbf" />
+<img width="914" height="410" alt="image" src="https://github.com/user-attachments/assets/fd23f6ac-11ab-4f1f-b7e6-74e579bc165b" />
 
 ### 2. Servo FS90 - connecting diagram
 <img width="1260" height="519" alt="image" src="https://github.com/user-attachments/assets/9a3b5863-b6f4-4700-b962-7429881c2e2b" />'
