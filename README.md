@@ -1,6 +1,6 @@
 # iot_2026_introduction
 
-# Arduino WiFi Example
+## Arduino WiFi Example
 
 This project connects Arduino Uno WiFi Rev2 to WiFi and prints:
 - IP address
@@ -60,5 +60,15 @@ Displays connection status and network info.
 
 
 ### 3. Adafruit BMP388 - connecting diagram
+
+
+
+# WiFI Connection
+## Raspberry Pico WH
+<img width="580" height="290" alt="rapberry pico wifi " src="https://github.com/user-attachments/assets/d6981a0c-9220-4cc3-9282-5bde1ead2c94" />
+
+
+
+
 
 
