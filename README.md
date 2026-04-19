@@ -37,8 +37,11 @@ Displays connection status and network info.
 
 ## Raspberry Pi 5B
 
-### 1. Sensor HC-SR04 - connecting diagram
+### 1.a Sensor HC-SR04 - connecting diagram - 3.3V
 <img width="1279" height="685" alt="image" src="https://github.com/user-attachments/assets/10aad0ee-c48e-40e4-9370-38ee89b1f224" />
+
+### 1.b Sensor HC-SR04 - connecting diagram - 5V
+<img width="1211" height="761" alt="image" src="https://github.com/user-attachments/assets/714135ba-67a8-4c89-8dea-3026bfe46e8b" />
 
 ### 2. Servo FS90 - connecting diagram
 <img width="1394" height="747" alt="image" src="https://github.com/user-attachments/assets/b4a4380f-20af-4e29-88c6-1432073b8e92" />
