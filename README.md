@@ -75,7 +75,8 @@ Displays connection status and network info.
 
 # MQTT broker PUB-SUB model Connection
 ## Raspberry Pi 5 <-> Raspberry Pi 5
-<img width="564" height="285" alt="rapberry pi 5 mqtt pub sub" src="https://github.com/user-attachments/assets/220d5df2-2cb6-4960-9bad-12b6dcf34db0" />
+<img width="564" height="370" alt="rapberry pi 5 mqtt pub sub" src="https://github.com/user-attachments/assets/67ffeb38-3d95-4965-8432-14ed0c77a452" />
+
 
 
 
