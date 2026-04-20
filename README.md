@@ -73,6 +73,9 @@ Displays connection status and network info.
 <img width="487" height="200" alt="rapberry pi 5 bluetooth" src="https://github.com/user-attachments/assets/74b3a131-2906-494b-bfe2-5d882a27f8db" />
 
 
+# MQTT broker PUB-SUB model Connection
+## Raspberry Pi 5 <-> Raspberry Pi 5
+<img width="564" height="285" alt="rapberry pi 5 mqtt pub sub" src="https://github.com/user-attachments/assets/220d5df2-2cb6-4960-9bad-12b6dcf34db0" />
 
 
 
