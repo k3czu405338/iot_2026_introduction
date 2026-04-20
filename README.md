@@ -68,6 +68,10 @@ Displays connection status and network info.
 <img width="580" height="290" alt="rapberry pico wifi " src="https://github.com/user-attachments/assets/d6981a0c-9220-4cc3-9282-5bde1ead2c94" />
 
 
+# Bluetooth Connection
+## Raspberry Pi 5
+<img width="487" height="200" alt="rapberry pi 5 bluetooth" src="https://github.com/user-attachments/assets/74b3a131-2906-494b-bfe2-5d882a27f8db" />
+
 
 
 
